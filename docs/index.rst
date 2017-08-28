@@ -18,11 +18,18 @@ Now you're ready to go!
    :maxdepth: 2
    :caption: Contents:
 
-   functions
+   install
+   usage
 
 
 
 Indices and tables
 ==================
 
-:ref:`functions`
+* :ref:`user-docs`
+
+.. _user-docs:
+
+.. toctree::
+   :maxdepth: 2
+   :caption: User Documentation
