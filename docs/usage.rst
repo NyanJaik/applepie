@@ -1,6 +1,5 @@
 .. default-domain:: py
 .. highlight:: python
-.. currentmodule:: init
 
 Usage
 =====
