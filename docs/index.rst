@@ -10,7 +10,7 @@ Thanks for trying our delicious homemade Apple Pie!
 
 Start off by installing through pip::
 
-```$ pip install applepie```
+    $ pip install applepie
 
 Now you're ready to go!
 
@@ -25,4 +25,4 @@ Now you're ready to go!
 Indices and tables
 ==================
 
-:ref:`toctree`
+:ref:`functions`
