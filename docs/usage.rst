@@ -1,7 +1,9 @@
+.. default-domain:: py
+.. highlight:: python
+.. currentmodule:: init
+
 Usage
 =====
-
-
 
 .. staticmethod:: strip(intext)
 
