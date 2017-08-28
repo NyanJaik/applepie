@@ -6,14 +6,23 @@
 Welcome to Apple Pie's documentation!
 =====================================
 
+Thanks for trying our delicious homemade Apple Pie!
+
+Start off by installing through pip::
+
+```$ pip install applepie```
+
+Now you're ready to go!
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+
+   functions
 
 
 
 Indices and tables
 ==================
 
-* :ref:`getting_started`
-* :ref:`functions`
+:ref:`toctree`
